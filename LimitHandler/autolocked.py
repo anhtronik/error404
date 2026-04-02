@@ -42,7 +42,7 @@ def load_telegram_credentials():
 
 def send_telegram(user, service, status):
     key, chat_id = load_telegram_credentials()
-    if not key:
+    if not key:8669298248:AAHMJOxH8cb5aBEsxjGUkJt_IpcLjTlkUPg
         return
 
     text = (
