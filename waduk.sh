@@ -53,8 +53,8 @@ export IP=$( curl -sS icanhazip.com )
 LUNAREP="https://raw.githubusercontent.com/anhtronik/error404/main/"
 
 function ADD_CEEF() {
-EMAILCF="newvpnlunatix293@gmail.com"
-KEYCF="88a8619c3dec8a0c9a14cf353684036108844"
+EMAILCF="fahmiherman05@gmail.com"
+KEYCF="8669298248:AAHMJOxH8cb5aBEsxjGUkJt_IpcLjTlkUPg"
 echo "$EMAILCF" > /usr/bin/emailcf
 echo "$KEYCF" > /usr/bin/keycf
 }
