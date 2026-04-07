@@ -1,6 +1,6 @@
 #!/bin/bash
 # Auto Install Dropbear 2019.78 to /usr/sbin/dropbear
-# Oleh: (LT) Lunatic Tunneling
+# Oleh: (ANH) TRONIK Tunneling
 
 clear
 
