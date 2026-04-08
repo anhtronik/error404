@@ -7,10 +7,10 @@ import time
 
 # Path konfigurasi
 SERVICES = {
-    "trojan": "/etc/lunatic/trojan",
-    "vmess": "/etc/lunatic/vmess",
-    "vless": "/etc/lunatic/vless",
-    "ssh": "/etc/lunatic/ssh"
+    "trojan": "/etc/anhtronik/trojan",
+    "vmess": "/etc/anhtronik/vmess",
+    "vless": "/etc/anhtronik/vless",
+    "ssh": "/etc/anhtronik/ssh"
 }
 XRAY_ACCESS_LOG = "/var/log/xray/access.log"
 TELEGRAM_KEY_PATH = "/etc/lunatic/bot/notif/key"
